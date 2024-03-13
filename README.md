@@ -1,28 +1,8 @@
 
 # Nevera_Quake
-<table align="right">
-<tr>
-<td>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</td>
-</tr>
-<tr>
-<td>
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td>
-
 ![Maintained? Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-
-</td>
-</tr>
-</table>
 
 
 
